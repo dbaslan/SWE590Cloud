@@ -16,7 +16,7 @@ Following is a diagram of the architecture:<br/>
 ![CloudComputingArchitecture](Images/CloudComputingArchitecture.png)<br/><br/>
 
 # Report and Presentation
-The project report is available in the repository, and a video demonstration is available on YouTube.
+The [project report](SWE590%20Project%20Report%20Deniz%20ASLAN.pdf) is available in the repository, and a [video demonstration](https://www.youtube.com/watch?v=1D7Zl-Pu6W0) is available on YouTube.
 
 # Notice
 Unity game repository available at [SWE585TechDemo](https://github.com/dbaslan/SWE585TechDemo), along with notice for 3rd party assets.
