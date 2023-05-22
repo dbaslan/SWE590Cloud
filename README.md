@@ -1,5 +1,5 @@
 # SWE590Cloud
-Cloud computing application project for SWE590. This repository contains a WebAssembly build of the project.
+Cloud computing application project for SWE590. This repository contains a WebAssembly build of the project, testing script, images and other related files.
 
 # Deployment
 The application is dockerized and deployed online on Goodgle Cloud with the Kubernetes Engine, using ngnix:
