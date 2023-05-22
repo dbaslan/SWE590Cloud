@@ -6,7 +6,7 @@ Unity game repository available at [SWE585TechDemo](https://github.com/dbaslan/S
 
 # Deployment
 This repository is dockerized and deployed online on Goodgle Cloud with the Kubernetes Engine, using ngnix:
-[http://34.118.124.205/](http://34.118.90.143/)
+[http://34.118.124.205/](http://34.118.90.143/) as of 22 May 2023. Note that the project will be taken offline at a later date.
 
 # Report and Presentation
 The project report is available in the repository, and a video demonstration is available on YouTube.
