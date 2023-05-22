@@ -2,7 +2,7 @@
 Cloud computing application project for SWE590
 
 # Notice
-Unity game repository available at [SWE585TechDemo](https://github.com/dbaslan/SWE585TechDemo).
+Unity game repository available at [SWE585TechDemo](https://github.com/dbaslan/SWE585TechDemo), along with notice for 3rd party assets.
 
 # Deployment
 This repository is dockerized and deployed online on Goodgle Cloud with the Kubernetes Engine, using ngnix:
