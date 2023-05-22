@@ -10,6 +10,7 @@ The application is dockerized and deployed online on Goodgle Cloud with the Kube
 
 ![Gameplay](Images/Gameplay.png)
 ![GoogleCloudConsole](Images/GoogleCloudConsole.png)
+![GoogleCloudConsole2](Images/GoogleCloudConsole2.png)
 
 # Report and Presentation
 The project report is available in the repository, and a video demonstration is available on YouTube.
