@@ -1,15 +1,8 @@
-from locust import HttpUser, task, between, HttpLocust, TaskSet
-import json
+from locust import HttpUser, task
 
 URL = "http://34.118.124.205/"
 
-class WebsiteTasks(TaskSet):
-    
+class WebUser(HttpUser):
     @task
-    def index(self):
+    def hello_world(self):
         self.client.get(URL)
-
-class WebsiteUser(HttpLocust):
-    task_set = WebsiteTasks
-    min_wait = 10
-    max_wait = 100
